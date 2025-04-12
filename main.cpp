@@ -1,7 +1,7 @@
 /******************************************************************************
 # Author:           Ari Pollack and Xavier Braker
 # Lab               Discussion 2
-# Date:             April 8, 2025
+# Date:             April 12, 2025
 # Description:      This program will calculate the cost of traveling 20, 75, 
                     and 500 miles, given a vehicle’s miles per gallon and the 
                     price of gas per gallon.
